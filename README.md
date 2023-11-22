@@ -10,9 +10,9 @@ Cette section est  la mise en place de la connexion entre PgAdmin et le conteneu
 ## 2.  Lecture des fichiers CSV et insertion des données dans la base de données (inserer_donnees.ipynb)
 Ce script Python est utilisé pour lire les fichiers CSV car_data et consumer_data Il effectue les opérations suivantes :
 
-Lecture des données
-Préparation et nettoyage des données pour l'insertion dans la base de données
-Choix du Modèle de Données
+Lecture des données.
+Préparation et nettoyage des données pour l'insertion dans la base de données.
+Choix du Modèle de Données.
 
 Le modèle de données est structuré en trois tables principales :
 
